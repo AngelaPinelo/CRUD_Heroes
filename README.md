@@ -8,7 +8,9 @@ Este proyecto consiste en un CRUD (Create, Read, Update, Delete) con Node.js y E
 </p>
 </br>
 La estructura del proyecto es la siguiente: 
+</br>
 - Se encuentra el folder llamado backendUbiquo (en este folder se aloja el backend de nuestro CRUD)
+</br>
 - Se encuentra el folder llamado frontUbiquo (dentro de este folder existe otro con el mismo nombre el cual contiene el frontend del proyecto)
 
 ## Instrucciones para probarlo ✏️
