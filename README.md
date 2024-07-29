@@ -1,6 +1,12 @@
 # CRUD_Heroes 💪🏻
 Este proyecto consiste en un CRUD (Create, Read, Update, Delete) con Node.js y Express en el backend y React en el frontend
 
+</br>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/K6XVjfH1zp5yE/giphy.gif?cid=790b7611pr11wt2t1ep9tgjhfslxov2zej4yi9zropckuizj&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Thanks">
+</p>
+</br>
 La estructura del proyecto es la siguiente: 
 - Se encuentra el folder llamado backendUbiquo (en este folder se aloja el backend de nuestro CRUD)
 - Se encuentra el folder llamado frontUbiquo (dentro de este folder existe otro con el mismo nombre el cual contiene el frontend del proyecto)
